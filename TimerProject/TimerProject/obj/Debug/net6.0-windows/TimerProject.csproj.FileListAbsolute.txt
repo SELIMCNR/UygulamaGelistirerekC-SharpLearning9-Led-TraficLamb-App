@@ -1,0 +1,16 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\bin\Debug\net6.0-windows\TimerProject.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\bin\Debug\net6.0-windows\TimerProject.deps.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\bin\Debug\net6.0-windows\TimerProject.runtimeconfig.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\bin\Debug\net6.0-windows\TimerProject.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\bin\Debug\net6.0-windows\TimerProject.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\obj\Debug\net6.0-windows\TimerProject.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\obj\Debug\net6.0-windows\TimerProject.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\obj\Debug\net6.0-windows\TimerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\obj\Debug\net6.0-windows\TimerProject.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\obj\Debug\net6.0-windows\TimerProject.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\obj\Debug\net6.0-windows\TimerProject.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\obj\Debug\net6.0-windows\TimerProject.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\obj\Debug\net6.0-windows\refint\TimerProject.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\obj\Debug\net6.0-windows\TimerProject.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\obj\Debug\net6.0-windows\TimerProject.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project12\TimerProject\TimerProject\obj\Debug\net6.0-windows\ref\TimerProject.dll
